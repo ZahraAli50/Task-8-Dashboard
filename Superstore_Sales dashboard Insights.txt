@@ -1,0 +1,30 @@
+1. Overall Sales and Profit Performance
+Total Sales: $2.33M
+
+Previous Year (PY): $1.58M
+
+Growth: +47.16%
+
+Total Profit: $292.30K
+
+Previous Year (PY): $196.37K
+
+Growth: +48.85%
+
+Insight: Both sales and profit have shown strong year-over-year (YoY) growth, indicating improved business performance.
+
+2. Returned Orders
+Current Return Rate: 5.79%
+
+Previous Year: 8.74%
+
+Change: -2.95%
+
+Insight: A drop in the return rate suggests better product satisfaction or improved fulfillment accuracy.
+
+4. Profit by Product Category
+Profitable Products: Phones, Binders, and Paper
+
+Loss-Making Products: Tables and Bookcases show negative profits.
+
+Insight: Focus can be increased on promoting profitable categories like Phones, while Tables need review for pricing, cost, or demand issues.
